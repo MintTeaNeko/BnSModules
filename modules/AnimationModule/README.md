@@ -18,11 +18,11 @@ and inside the item json under modules you put
 
 ```json
 {
-	  "$type": "AnimationModule.AnimationData, AnimationModule",
-	  "bindToButton": "spellMenu",
-	  "animationComponent": "animation component refrence",
-	  "animationHandles": {
-		  "HandleName": "AnimationDataJson"
-	  }
-	}
+	"$type": "AnimationModule.AnimationData, AnimationModule",
+  	"bindToButton": "spellMenu",
+  	"animationComponent": "animation component refrence",
+  	"animationHandles": {
+	  "HandleName": "AnimationDataJson"
+  	}
+}
 ``` 
