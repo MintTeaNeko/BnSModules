@@ -5,7 +5,7 @@ a json with animation data which it later uses.
 
 AnimationJsons folder needs to be place in `BladeAndSorcery_Data/StreamingAssets/Mods`.
 
-The dll needs to be inside the mod's folder.
+The dll needs to be inside the mod's folder `BladeAndSorcery_Data/StreamingAssets/Mods/{Your mod's name}`.
 
 the animation data Json is structured like so
 
