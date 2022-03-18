@@ -3,7 +3,9 @@ this module lets you play an animation on items
 the main idea I had with it is letting the user make
 a json with animation data which it later uses.
 
-AnimationJsons folder needs to be place in `BladeAndSorcery_Data/StreamingAssets/Mods`
+AnimationJsons folder needs to be place in `BladeAndSorcery_Data/StreamingAssets/Mods`.
+
+The dll needs to be inside the mod's folder.
 
 the animation data Json is structured like so
 
